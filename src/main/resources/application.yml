@@ -1,0 +1,13 @@
+security:
+  oauth2:
+    client:
+      clientId: x 
+      clientSecret: x
+      accessTokenUri: x
+      userAuthorizationUri: x
+      scope: x
+    resource:
+      userInfoUri: x
+elixir:
+  userinfo: x
+  
